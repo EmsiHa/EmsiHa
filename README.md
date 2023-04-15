@@ -7,6 +7,8 @@
 
 <p align="center">👨‍💻 All of my projects are available at emsiha.me </p>
 
+<p align="center">❤️🤍💙 I'm chronically Norwegian </p>
+
 <p align="center"> <a href="https://www.moomin.com/en/characters/snufkin/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/44/e5/d2/44e5d2d6991e3845b6da0302c7f35e8b.gif" alt="Snufkin GIF" width="375" height="281.25"/>
 
 <h3 align="center">Languages and Tools:</h3>
