@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm EmsiHa</h1>
-<h3 align="center">Computer Science Student with a focus on Front-End Development</h3>
+<h1 align="center">Hi 👋, I'm Emsi</h1>
+<h3 align="center">Design is my passion</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emsiha&label=Profile%20views&color=c86778&style=flat" alt="emsiha" /> </p>
 
