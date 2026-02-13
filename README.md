@@ -5,7 +5,7 @@
 
 <p align="center">🌱 I’m currently learning Front-End Frameworks, JavaScript and Java </p>
 
-<p align="center">👨‍💻 All of my projects are available at emsiha.me </p>
+<p align="center">👨‍💻 All of my projects are available at emsiha.me (currently offline!) </p>
 
 <p align="center">❤️🤍💙 I'm chronically Norwegian </p>
 
