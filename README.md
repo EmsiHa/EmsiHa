@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emsi</h1>
-<h3 align="center">Design is my passion</h3>
+<h3 align="center">Why you peepin?</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emsiha&label=Profile%20views&color=c86778&style=flat" alt="emsiha" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="center">👨‍💻 All of my projects are available at emsiha.me (currently offline!) </p>
 
-<p align="center">❤️🤍💙 I'm chronically Norwegian </p>
+<p align="center">❤️🤍💙 Chronically Norwegian, married to an American </p>
 
 <p align="center"> <a href="https://www.moomin.com/en/characters/snufkin/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/44/e5/d2/44e5d2d6991e3845b6da0302c7f35e8b.gif" alt="Snufkin GIF" width="375" height="281.25"/>
 
